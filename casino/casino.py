@@ -16,7 +16,7 @@ from .deck import Deck
 from .checks import Checks
 
 # Red
-from redbot.core.i18n import CogI18n
+from redbot.core.i18n import Translator
 from redbot.core import Config, bank
 
 # Discord
